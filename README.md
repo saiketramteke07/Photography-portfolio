@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development,DSA**
 
-- 👯 About this project **This portfolio project began when a close friend, a passionate photographer, approached me to help showcase their work in a professional and visually stunning way. As someone who values creativity and technology, I took on the challenge to create a portfolio that truly reflects his unique style and skillset.**
+- 👯 About this project **This portfolio project holds special significance for me. It all started when a close friend of mine, a talented photographer, asked me to help him create a website to showcase his stunning photography. As someone passionate about design and development, I eagerly took on the task, excited to combine my skills with his creativity.
+
+Coincidentally, on the very same day, I received a task from my internship—a requirement to build a personal portfolio to present my own work. The timing was perfect! I saw this as an opportunity to not only help my friend but also develop a framework I could adapt for my own professional growth.
+
+I decided to combine these projects into a single initiative, using the skills I gained through my internship to build a clean, functional, and visually engaging portfolio that serves both purposes. This project reflects not only the technical skills I’ve honed but also my love for collaboration, creativity, and problem-solving.**
 
 - 📫 How to reach me **ramtekesaiket@gmail.com**
 
