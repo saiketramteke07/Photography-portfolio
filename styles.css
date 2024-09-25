@@ -132,11 +132,11 @@ header nav ul li a:hover {
 }
 
 .gallery-scroll::-webkit-scrollbar {
-    height: 8px; /* Adjust the scrollbar height */
+    height: 8px; 
 }
 
 .gallery-scroll::-webkit-scrollbar-thumb {
-    background-color: #333; /* Custom scrollbar color */
+    background-color: #333;
     border-radius: 10px;
 }
 
