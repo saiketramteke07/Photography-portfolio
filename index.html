@@ -23,7 +23,8 @@
     <header>
         <nav>
             <img src="assets\images\cropped_image.png" style="height: 80px; width: 80px;">
-            <h1>FreeStyle <br> Photography</h1>
+            <h1>FreeStyle<br>Photography</h1>
+            
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#gallery">Gallery</a></li>
@@ -35,25 +36,37 @@
 
     <section id="home" class="hero">
         <img src="assets\camera.jpg" style="background-image:url(assets\camera.jpg) ;">
-        
     </section>
 
-    <section id="gallery">
+    
+    
+     <section id="gallery">
         <h2 style="color: beige; text-align: center;">My Photography</h2>
-        <div id="gallery-grid" class="gallery-grid" style="background-color: black;">
+        <div id="gallery-grid" class="gallery-grid" style="background-color: black;"> 
+            <div class="gallery-container">
+                <button class="scroll-left" onclick="scrollGallery(-1)">&#10094;</button>
+                <div id="gallery-scroll" class="gallery-scroll">
             <img src="assets\images\WhatsApp Image 2024-08-28 at 10.34.53 PM (1).jpeg">
             <img src="assets\images\gokarna.jpeg">
             <img src="assets\images\WhatsApp Image 2024-08-28 at 10.34.52 PM.jpeg"> 
             <img src="assets\images\WhatsApp Image 2024-08-28 at 10.34.53 PM.jpeg">
+            <img src="assets\images\WhatsApp Image 2024-09-25 at 7.06.34 PM.jpeg">
+            <img src="assets\images\WhatsApp Image 2024-09-25 at 7.07.49 PM.jpeg">
+            <img src="G:\Photography Portfolio\assets\images\WhatsApp Image 2024-09-25 at 7.11.36 PM.jpeg">
+            </div>
+            <button class="scroll-right" onclick="scrollGallery(1)">&#10095;</button>
         </div>
+    </div> 
     </section>
 
     <section id="about">
+        
         <h2>About Me</h2>
         <p>Hi, I’m Faizan, a nature photographer with a passion for capturing the beauty and serenity of the outdoors.
            From misty mornings to dramatic landscapes, my photography is about freezing moments that inspire awe and connection with the natural world. 
            Explore my gallery to see nature through my lens, and feel free to reach out if you resonate with my work!
         </p>
+       
     </section>
     
         
@@ -87,6 +100,7 @@
         <p>&copy; 2024 Photographer's Portfolio. All rights reserved.</p>
     </footer>
 
-    
+    <script src="script.js"></script>
 </body>
 </html>
+
