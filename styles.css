@@ -329,4 +329,6 @@ footer {
     #about p {
         font-size: 0.9rem;
     }
+    .social_media ul{
+        display:block;
 }
