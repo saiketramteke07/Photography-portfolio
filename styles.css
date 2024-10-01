@@ -132,11 +132,11 @@ header nav ul li a:hover {
 }
 
 .gallery-scroll::-webkit-scrollbar {
-    height: 8px; 
+    height: 8px; /* Adjust the scrollbar height */
 }
 
 .gallery-scroll::-webkit-scrollbar-thumb {
-    background-color: #333;
+    background-color: #333; /* Custom scrollbar color */
     border-radius: 10px;
 }
 
@@ -300,7 +300,7 @@ footer {
     }
 
     .social_media ul {
-        display:block;
+        display: block;
     }
 
     .social_media a {
@@ -329,5 +329,7 @@ footer {
         font-size: 0.9rem;
     }
     .social_media ul{
-        display:block;
+        display: block;
+    }
+
 }
