@@ -300,8 +300,7 @@ footer {
     }
 
     .social_media ul {
-        flex-direction: column;
-        align-items: center;
+        display:block;
     }
 
     .social_media a {
